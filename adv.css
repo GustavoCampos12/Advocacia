@@ -1,0 +1,35 @@
+body{margin:0;
+    font-family: 'Fredoka', sans-serif;}
+.primeira-div{border-bottom: 1px solid #d5d5d5;}
+.primeiro-paragrafo{margin:0 auto;
+width:800px;
+padding:20px;
+font-weight: bold;
+font-size:22px
+}
+.segunda-div{background-image: url('img/capa.jpg');
+min-height: 500px;
+background-size: cover;
+}
+h1, h2, h3 {
+    margin: 0;}
+.div-titulos{text-align: center;
+margin-left:400px;
+padding-top:50px}
+.terceira-div{text-align: left;
+margin:30px 200px}
+span{border-left:3px solid;
+padding-left: 10px}
+.div-sao{background-image: url('img/fundo.jpg');
+padding:50px 0;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:cover}
+.div-texto{text-align: center;
+border-radius:20px;
+background-color:white;
+margin:20px 650px;
+padding:5px 5px;
+font-size:20px}
+.quarta-div{margin:50px 400px;}
+
